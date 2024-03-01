@@ -24,4 +24,3 @@ Allows you to play multiple choice question answer quiz.
 4. match the answers
 5. score
 6. ask user to go next or skip
-7. 
